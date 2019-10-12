@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siethiush.ksheen.info/sitemap.xml
